@@ -96,6 +96,19 @@ The dashboard provides a centralized view of hospital operations and financial p
 
 ---
 
+
+## Recommendations
+
+- Implement improved patient follow-up systems to reduce readmission rates
+- Strengthen billing verification processes to minimize revenue leakage
+- Monitor high-cost departments to optimize treatment expenses
+- Improve resource allocation across departments for better operational efficiency
+- Develop predictive monitoring systems for high-risk patients
+- Enhance dashboard monitoring for real-time hospital performance tracking
+- Use historical healthcare data to support strategic planning and decision-making.
+
+---
+
 # Skills Demonstrated
 - Data Cleaning
 - Data Transformation
